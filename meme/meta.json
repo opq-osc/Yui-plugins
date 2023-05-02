@@ -1,0 +1,12 @@
+{
+	"PluginName": "meme",
+	"Description": "表情包生成插件",
+	"Dependencies": null,
+	"Author": "enjoy",
+	"Url": "",
+	"Version": 0,
+	"Sha256": "",
+	"Sign": false,
+	"SignInfo": "",
+	"Permissions": ["HTTPRequestPermission","UploadPermission","SendGroupMsgPermission","ReceiveGroupMsgPermission"]
+}
