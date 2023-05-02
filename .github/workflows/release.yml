@@ -38,6 +38,7 @@ jobs:
         if: success() && startsWith(github.ref, 'refs/tags/')
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPQPrivateKey: ${{ secrets.OPQPRIVATEKEY }}
         run: |
           go mod tidy
           go run .
