@@ -6,7 +6,7 @@
 	"Url": "",
 	"Version": 0,
 	"Sha256": "",
-	"Sign": false,
-	"SignInfo": "",
+	"Sign": true,
+	"SignInfo": "社区开源版本",
 	"Permissions": ["HTTPRequestPermission","UploadPermission","SendGroupMsgPermission","ReceiveGroupMsgPermission"]
 }
