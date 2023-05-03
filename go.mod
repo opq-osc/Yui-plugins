@@ -9,7 +9,7 @@ require (
 	github.com/knqyf263/go-plugin v0.7.1-0.20230420183704-82cf9090ca1e
 	github.com/mailru/easyjson v0.7.7
 	github.com/opq-osc/OPQBot/v2 v2.0.0-20230501145629-6fc4f36b6a66
-	github.com/opq-osc/Yui v0.0.2
+	github.com/opq-osc/Yui v0.0.4
 	golang.org/x/oauth2 v0.7.0
 )
 
